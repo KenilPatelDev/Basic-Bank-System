@@ -2,12 +2,15 @@
 I have implemented website on Basic Banking System.<Br />
 This project was implemented for ***The Spark Foundation*** internship.
 
+Website Link: https://kmptsf.000webhostapp.com/
+
 # Features
-  1. Create User
-  2. Transfer Money
-  3. Transaction History
+  1. User List
+  2. Create User
+  3. Transfer Money
+  4. Transaction History
 
 # Technology Use
-  1. **Front-end**: HTML, CSS, Java Script
+  1. **Front-end**: HTML, CSS, Bootstrap
   2. **Back-end**: PHP
-  3. **Database**: MySqli
+  3. **Database**: MySql
