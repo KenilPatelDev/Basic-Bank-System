@@ -2,7 +2,6 @@
 I have implemented website on Basic Banking System.<Br />
 This project was implemented for ***The Spark Foundation*** internship.
 
-Website Link: https://kmptsf.000webhostapp.com/
 
 # Features
   1. User List
